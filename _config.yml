@@ -1,0 +1,22 @@
+app:
+  title: 'Microbox'
+  name: 'Microbox'
+  description: 'Microbox website'
+  keywords: 'microbox, construction'
+
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    disable: true
+
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - serve
+  - boxfile.yml
+
+
+
