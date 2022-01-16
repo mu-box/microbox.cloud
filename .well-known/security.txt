@@ -1,0 +1,22 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: mailto:security@microbox.cloud
+Expires: 2025-12-31T17:00:00.000Z
+Encryption: https://microbox.cloud/security-team-key.txt
+Preferred-Languages: en
+Canonical: https://microbox.cloud/.well-known/security.txt
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEr8SVHX8rKnafaI5LzgJ3mC7EOIkFAmHkSFMACgkQzgJ3mC7E
+OIli9Qv/bb1hSwkYAxMXMFJlfdsHdzluNBMLr182Lyf6lyLRlpULvbkEyveSkdRM
+x+5ivcIdFb/S8yHCTT58or5w1bO1KXYUlOEwTtvTHFWdSnxAS77OQN59B2Vmmse5
+iAmmhwaL22yUvMkz2aw+As95OKwJwU4bX+j2DVJ9MYx3jfTSP6ROyYfhXFqoNs2W
+Drnju5g+OrBCPoUPPXKgUCMYyZCskhdy/l35HOGRZgBSUiFOvmq2UroJ1xLVXVUR
+x5s2gBlgq9tujbwuw463v1cYthQBOjfzlDLu5j/HHpdJIjrsQ5nmLjaTX60C0EUb
+wea3vzRXTMGyezr3DaMB66s45oATTZXdtIkKFpkriHFLcVw2F8FASHN4fnmo8KEd
+JNDas83Q/Uqe5ettMpRWi8i0WjJ3Sd7XPMO9AxNNq6SHnYsGveZMwUXaWD21K8/h
+IOjocGlqQEhC4/SgdMXymAi3hEmWsU19StfyUHg4V/CyxBwqqHwLiBvbC4uSOoc1
+pRA52ViX
+=Icej
+-----END PGP SIGNATURE-----
