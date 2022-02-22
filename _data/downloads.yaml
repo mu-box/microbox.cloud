@@ -1,0 +1,41 @@
+windows:
+  amd64:
+    url: https://s3.amazonaws.com/tools.microbox.cloud/installers/v2/windows/MicroboxSetup.exe
+  amd64_bundle:
+    url: https://s3.amazonaws.com/tools.microbox.cloud/installers/v2/windows/MicroboxBundleSetup.exe
+
+mac:
+  universal:
+    url: https://s3.amazonaws.com/tools.microbox.cloud/installers/v2/mac/Microbox.pkg
+  amd64_bundle:
+    url: https://s3.amazonaws.com/tools.microbox.cloud/installers/v2/mac/MicroboxBundle.pkg
+
+linux:
+  arch:
+    amd64:
+      url: https://s3.amazonaws.com/tools.microbox.cloud/installers/v2/linux/microbox-2-1-x86_64.pkg.tar.zst
+  centos:
+    amd64:
+      url: https://s3.amazonaws.com/tools.microbox.cloud/installers/v2/linux/microbox-2-1.x86_64.rpm
+    arm64:
+      url: https://s3.amazonaws.com/tools.microbox.cloud/installers/v2/linux/microbox-2-1.aarch64.rpm
+    s390x:
+      url: https://s3.amazonaws.com/tools.microbox.cloud/installers/v2/linux/microbox-2-1.s390x.rpm
+  debian:
+    amd64:
+      url: https://s3.amazonaws.com/tools.microbox.cloud/installers/v2/linux/microbox_2_amd64.deb
+    arm64:
+      url: https://s3.amazonaws.com/tools.microbox.cloud/installers/v2/linux/microbox_2_arm64.deb
+    arm:
+      url: https://s3.amazonaws.com/tools.microbox.cloud/installers/v2/linux/microbox_2_armhf.deb
+    s390x:
+      url: https://s3.amazonaws.com/tools.microbox.cloud/installers/v2/linux/microbox_2_s390x.deb
+  generic:
+    amd64:
+      url: https://s3.amazonaws.com/tools.microbox.cloud/installers/v2/linux/microbox-2-amd64.tar.gz
+    arm64:
+      url: https://s3.amazonaws.com/tools.microbox.cloud/installers/v2/linux/microbox-2-arm64.tar.gz
+    arm:
+      url: https://s3.amazonaws.com/tools.microbox.cloud/installers/v2/linux/microbox-2-arm.tar.gz
+    s390x:
+      url: https://s3.amazonaws.com/tools.microbox.cloud/installers/v2/linux/microbox-2-s390x.tar.gz

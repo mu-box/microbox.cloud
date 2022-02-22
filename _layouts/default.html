@@ -9,7 +9,7 @@
     <meta name="author" content="Microbox Team">
     <meta name="generator" content="Netlify - Jekyll">
 
-    <title>{{ site.app.title }}</title>
+    <title>{{ page.title | default: "Welcome!" }} | {{ site.app.title }}</title>
 
     <link rel="stylesheet"
           href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css"
@@ -21,15 +21,7 @@
 
 <body>
     <div class="container">
-        <div class="text-center">
-            <img class="logo" src="/assets/images/mbox.png"
-                 title="{{ site.app.title }}"
-                 alt="{{ site.app.title }}" />
-        </div>
-        <div class="text-center">
-			<strong>Coming Soon</strong>
-			<br>
-        </div>
+          {{ content }}
     </div>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.slim.min.js"
